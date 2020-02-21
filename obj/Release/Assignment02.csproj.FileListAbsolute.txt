@@ -1,0 +1,5 @@
+C:\Users\Owner\source\repos\Assignment02\bin\Release\Assignment02.exe.config
+C:\Users\Owner\source\repos\Assignment02\bin\Release\Assignment02.exe
+C:\Users\Owner\source\repos\Assignment02\bin\Release\Assignment02.pdb
+C:\Users\Owner\source\repos\Assignment02\obj\Release\Assignment02.exe
+C:\Users\Owner\source\repos\Assignment02\obj\Release\Assignment02.pdb
